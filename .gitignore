@@ -1,0 +1,6 @@
+vendor/
+tmp/
+internal/devnet/db.bolt
+internal/devnet/log.jsonl
+/chainlink
+.envrc

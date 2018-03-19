@@ -1,0 +1,17 @@
+{
+  "name": "chainlink",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bignumber.js": "^5.0.0",
+    "ganache-cli": "^6.0.3",
+    "linkToken": "github:smartcontractkit/linktoken",
+    "moment": "^2.20.1",
+    "solidity-stringutils": "github:Arachnid/solidity-stringutils",
+    "truffle": "^4.0.4",
+    "web3": "^1.0.0-beta.29",
+    "wscat": "^2.1.1",
+    "zeppelin-solidity": "^1.6.0"
+  }
+}
